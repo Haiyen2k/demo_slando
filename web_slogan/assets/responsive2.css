@@ -1,0 +1,1814 @@
+@media (min-width: 480px) and (max-width:768px){
+  #nav > li{
+    display: block;
+}
+.header_seach{
+    display: none;
+}
+.sdef{
+    display: block;
+    
+  
+}
+.header_number {
+    display: none;
+}
+.header_get {
+    display: none;
+}
+img.img_hee{
+    
+}
+#nav{
+    display: none;
+}
+.mobile-menu{
+    display: block;
+    z-index: 100;
+}
+/* .nav__overlay{
+    position: fixed !important;
+    z-index: 1 !important;
+    height: 2000px !important;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+} */
+.nav_mobile{
+    display: block;
+    
+}
+#nav_mobile{
+    background-color: #fff !important;
+    z-index: 100;
+    display: block;
+}
+label.mobile-menu {
+  margin-left: 452px;
+  line-height: 8.2rem;
+  width: 20px;
+}
+h1.text-heading {
+  font-size: 2.5rem !important;
+  color: aliceblue;
+  font-weight: 500;
+}
+.bt_solu {
+  height: 36px !important;
+  font-size: 10px !important;
+  width: 100px !important;
+}
+.text-content {
+  width: 65%;
+  margin-left: 159px;
+}
+.h1_context{
+    color: var(--thm-black);
+    font-size: 45px;
+    line-height: 1.2em;
+    font-weight: 700;
+    margin-bottom: 27px;
+
+}
+.design{
+    font-size: 14px;
+    width: 60%;
+}
+.con{
+  max-width: 200px !important;
+z-index: 1;
+height: 227px;
+}
+.nor{
+    
+    max-width: 272px;
+    
+    margin-right: 24px;
+}
+h3.ct_tree,.fox,.fs,.fd,.ct_ct {
+  font-size: 18px;
+}
+.p_pro {
+  font-size: 10px;
+  margin-left: -10px !important;
+}
+
+.row.infomation {
+ 
+    width: 120%;
+    margin-left: -84px;
+  
+}
+
+.product_lan{
+  display: block;
+  position: relative !important;
+  margin-top: 139px;
+  height: 1300px;
+  width: 500px !important;
+  margin-top: 17px;
+  
+}
+.product_lan_right{
+  position: absolute !important;
+}
+.img_lan {
+  width: 163%;
+  margin-left: -76px;
+}
+.product_lanspace {
+  width: 122%;
+}
+.product_lan_left {
+  margin-top: 670px;
+  margin-left: 0px;
+}
+.h2_start_project {
+  font-size: 24px !important;
+}
+.app_project {
+  font-size: 14px !important;
+}
+.company_header {
+  padding-top: 25px;
+}
+.ecellent{
+  font-size: 12px !important;
+}
+button.bt_appoin {
+
+  width: 87%;
+  height: 50px;
+  border-radius: 27px;
+  font-size: 18px;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: var(--thm-base);
+  border: 1px solid #fff;
+
+}
+
+.h1_pro {
+  font-size: 43px !important;
+  padding-top: 25px;
+}
+.p_product{
+  font-size: 14px !important;
+} 
+.about_slando{
+margin-top: 185px;
+}
+
+.comple {
+    width: 190px !important;
+}
+.com{
+    width: 202px !important;
+visibility: visible;
+/* margin: 10px 90px; */
+margin-left: 21px;
+margin-right: 6px;
+}
+.number_5,.number_25{
+    z-index: 100;
+    height: 186px;
+    max-width: 200px;
+}
+.product_lan_right{
+    max-width: 300px;
+}
+.your_project{
+    width: 500px;
+    height: 181px !important;
+    z-index: 100;
+    max-width: 500px !important;
+}
+.product_left{
+
+}
+.slando.row {
+    display: block;
+}
+img.img_slando {
+  width: 93%;
+}
+h1.h_slando_top {
+    width: 82%;
+font-size: 43px !important;
+}
+
+h2.sp_slando_top.go {
+  width: 85%;
+  font-size: 18px;
+}
+.slando_centre {
+    width: 200%;
+}
+p.p_slando_bottom {
+  width: 72%;
+}
+
+h1.company_design {
+  width: 92%;
+  text-align: center;
+  font-size: 42px;
+}
+.company_start.row {
+  margin-top: 79px;
+  width: 90%;
+
+  }
+  .company_preparation{
+   
+    margin-right: 5px;
+  
+    
+  }
+  .img_company {
+    padding-top: 2px;
+ 
+  }
+  .img_home{
+    width: 52%;
+    margin-top: -4px;
+    
+    
+  }
+  .img_home3{
+    width: 54%;
+    margin-top: -5px;
+
+  }
+  .img_home2{
+    width: 61%;
+    margin-top: -5px;
+  
+  }
+ 
+  .h3_preparation {
+    font-size: 14px;
+width: 200px;
+margin-left: -31px;
+  }
+  .h3_preparation.h3_design {
+    margin-left: -22px !important;
+  }
+  .h3_preparation.fffe.h3_design {
+    padding-left: 10px;
+  }
+   .h3_enjoy{
+    margin-left: 107px !important;
+   }
+   .h3_preparation.h3_design.h3_enjoy {
+    padding-left: 7px;
+    width: 200%;
+  }
+  .company_slando{
+    height: 550px !important;
+  }
+  .img_company {
+    padding-top: 2px;
+    margin-left: -5px;
+    margin-right: 5px;
+  }
+  .img_company2{
+    width: 149px;
+margin-top: 11px;
+  }
+  .img_company2.company_2 {
+    margin-left: -66px;
+  }
+  .sp_projects {
+   font-size: 14px !important;
+  }
+  .projects_content.row {
+    width: 159%;
+  }
+  
+
+  .projects_bottom {
+    width: 150%;
+    margin-left: -232px;
+  } 
+  .lorem_1 {
+    width: 287px;
+    transform: all 500ms linear;
+    transition-delay: 0.1s;
+    float: left;
+    position: relative;
+    transform: translate3d(-100px,0, 0);
+    height: 330px;
+    
+  }
+  .lorem{
+    display: flex;
+    overflow: visible;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    transition: all 100ms linear;
+      transition-delay: 0s;
+    transition-delay: 0.1s;
+    position: relative;
+    overflow: hidden;
+    width: 105%;
+
+  }
+  .lorem_lorem {
+    padding-top: -20px;
+    margin-top: -13px;
+  
+  }
+  .TESTIMONIAL_contect_bottom_h1 {
+    margin-top: -30px !important;
+    z-index: 100;
+  }
+  .carousel-indicators {
+  
+      margin-bottom: -17px;
+  
+  }
+  .pp_contact {
+    font-size: 12px !important;
+  }
+  .h3_maha {
+  font-size: 14px !important;
+  width: 129%;
+  margin-left: 30px;
+}
+.p_senior {
+  font-size: 10px !important;
+  width: 138%;
+  margin-left: 30px;
+}
+.p_lore {
+  font-size: 12px !important;
+  padding-top: 63px;
+}
+  .lorem_1.cono {
+  
+  }
+  .lorem_1.lorem_div {
+    opacity: 0;
+  }
+  .contact_us_left {
+    width: 100%;
+    margin-left: -98px;
+  }
+  .contact_us_right.col-lg-5 {
+    width: 400px;
+max-width: 500px;
+z-index: 100;
+margin-left: -20px;
+  }
+  .h1_pp_contact {
+    width: 409px;
+font-size: 30px !important;
+  }
+  img.contact_img {
+    width: 113%;
+    margin-left: -43px;
+  }
+  .contact_img1{
+    opacity: 0;
+  }
+  
+  .input_name {
+    height: 42px !important;
+  }
+  .input_tt {
+    height: 110px !important;
+  }
+  .bt_send {
+    height: 42px !important;
+    margin-top: -12px;
+    font-size: 13px !important;
+  }
+  .bt_contact {
+    width: 390px;
+    margin-top: -9px;
+  }
+  .p_blog_ {
+    font-size: 10px !important;
+  }
+  .h1_projects {
+    width: 87% !important;
+font-size: 42px !important;
+  }
+  .contact_input{
+    width: 100%;
+  }
+  .contact_img1 {
+    margin-left: -24px;
+    margin-bottom: 57px;
+  }
+  .h1_blog_ {
+    width: 596px !important;
+z-index: 100;
+margin-left: 118px !important;
+font-size: 34px !important;
+  }
+  .projects_content.contact_23.row {
+    width: 42%;
+margin-left: -94px;
+display: block ruby;
+  }
+  .projects_content_imgg {
+    width: 100%;
+  }
+  .img_blog {
+    height: 250px !important;
+  }
+  .footer_slando_up {
+    width: 299px;
+    height: 205px;
+    margin-left: -33px;
+  }
+  .p_blog,.pp_blog,.pp_blogg{
+    font-size: 13px !important;
+text-align: center;
+justify-content: center;
+display: flex;
+  }
+  .h2_blog,.h22_blog {
+    font-size: 20px !important;
+  }
+  .p_footer {
+    width: 300px;
+  }
+  .footer_slanfo_2{
+    width: 300px !important;
+    z-index: 100;
+
+  }
+  .contact {
+    height: 1460px;
+  }
+  .gggg{
+    max-width: 268px !important;
+  }
+  .feeedwwr {
+    width: 184px !important;
+margin-left: 162px;
+  }
+  .dcsw{
+    margin-left: 145px !important;
+    width: 200px;
+    display: contents;
+  }
+  .footer_slando_bottom {
+    margin-left: -35px;
+width: 212px;
+height: 62px;
+border-radius: -23px;
+  }
+  .feeedwwr.eeert6w {
+    margin-left: 219px;
+  }
+  .feeedwwr.fgghrr {
+    margin-left: 121px;
+  }
+  .ttt {
+    margin-left: -27px;
+  }
+  .fr_fb {
+    width: 18%;
+  }
+  .copyright.row {
+    display: block ruby;
+  }
+  .ft_copy{
+    width: 42%;
+    margin-left: -95px;
+  }
+  .ft_copy_right{
+    width: 60%;
+  }
+  #footer {
+    height: 1000px;
+  }
+  .copyright.row {
+    margin-top: -50px;
+    margin-top: 434px;
+    margin-left: -65px;
+  }
+  .gf{
+    width: 56px !important;
+line-height: 50px;
+margin-left: 18px;
+  }
+  .fa-arrow-right::before {
+    content: "\f061";
+    line-height: 56px;
+    width: 94px;
+  }
+  .projects_content_gader {
+    margin-left: -209px;
+    width: 200px;
+    margin-right: 163px;
+  }
+  .projects_content_text {
+    width: 220px;
+    height: 175px;
+  }
+  .p_Garden {
+    font-size: 10px !important;
+   margin-left: -12px !important;;
+  }
+  .h2_Garden {
+    font-size: 17px !important;
+    width: 100%;
+    margin-left: -13px;
+  }
+  .p_Garden_lacu {
+    font-size: 11px !important;
+    margin-left: 26px !important;
+  }
+  .projects_content_i {
+    left: 182px;
+  }
+  .pro_bach.row {
+    width: 100%;
+    margin-left: 47px;
+    height: 90px;
+  }
+  .vvv {
+      height: 100px;
+  }
+  .projects_bottom_left{
+    width: 303% !important;
+  }
+  .he_projects_bottom {
+    font-size: 16px !important;
+    width: 94%;
+  }
+  .bt_projects_bottom {
+    font-size: 12px !important;
+    height: 42px !important;
+  }
+  .projects {
+    
+    height: 1000px;
+  }
+  .teti {
+    font-size: 16px !important;
+  }
+  .clien {
+    font-size: 42px !important;
+  }  
+
+.TESTIMONIAL_contect_bottom {
+
+margin-top: -225px;
+
+}
+    
+}
+/* PC mobile 480 */
+@media (max-width:480px) {
+  #nav > li{
+    display: block;
+}
+.header_seach{
+    display: none;
+}
+.sdef{
+    display: block;
+    
+  
+}
+.header_number {
+    display: none;
+}
+.header_get {
+    display: none;
+}
+img.img_hee{
+    
+}
+#nav{
+    display: none;
+}
+.mobile-menu{
+    display: block;
+    z-index: 100;
+}
+/* .nav__overlay{
+    position: fixed !important;
+    z-index: 1 !important;
+    height: 2000px !important;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+} */
+.nav_mobile{
+    display: block;
+    
+}
+#nav_mobile{
+    background-color: #fff !important;
+    z-index: 100;
+    display: block;
+}
+label.mobile-menu {
+  margin-left: 169px;
+  line-height: 9.2rem;
+  width: 20px;
+
+}
+h1.text-heading {
+  font-size: 1.5rem !important;
+color: aliceblue;
+font-weight: 500;
+}
+.bt_solu {
+  height: 36px !important;
+  font-size: 10px !important;
+  width: 100px !important;
+}
+.text-content {
+  width: 65%;
+  margin-left: 296px;
+}
+.h1_context{
+  color: var(--thm-black);
+  font-size: 35px;
+  line-height: 1.2em;
+  font-weight: 700;
+  margin-bottom: 27px;
+
+}
+.design{
+    font-size: 14px;
+    width: 60%;
+}
+.con{
+  max-width: 269px !important;
+z-index: 1;
+height: 260px;
+}
+.nor{
+    
+    max-width: 272px;
+    
+    margin-right: 24px;
+}
+h3.ct_tree,.fox,.fs,.fd,.ct_ct {
+  font-size: 22px;
+}
+.p_pro {
+  font-size: 14px;
+margin-left: -10px !important;
+}
+
+.row.infomation {
+ width: 120%;
+margin-left: -84px;
+display: block;
+text-align: center;
+align-content: center;
+margin-left: 51px;
+  
+}
+
+.product_lan{
+  display: block;
+  position: relative !important;
+  margin-top: 139px;
+  height: 1300px;
+  width: 500px !important;
+  margin-top: 17px;
+  
+}
+.product_lan_right{
+  position: absolute !important;
+  
+    margin-left: 61px;
+    margin-top: -168px;
+  
+}
+.img_lan {
+  width: 176%;
+  margin-left: -76px;
+}
+.product_lanspace {
+  width: 122%;
+}
+.product_lan_left {
+  margin-top: 100px;
+  margin-left: 0px;
+}
+.h2_start_project {
+  font-size: 18px !important;
+}
+.app_project {
+  font-size: 10px !important;
+}
+.ecellent{
+  margin-top: -10px;
+  font-size: 10px !important;
+}
+button.bt_appoin {
+  width: 87%;
+  height: 45px;
+  border-radius: 27px;
+  font-size: 12px;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: var(--thm-base);
+  border: 1px solid #fff;
+
+}
+
+.h1_pro {
+  font-size: 34px !important;
+padding-top: 25px;
+}
+.p_product{
+  font-size: 14px !important;
+  margin-left: -50px;
+} 
+.about_slando{
+margin-top: 185px;
+}
+
+.comple {
+  width: 180px !important;
+  margin-left: -47px;
+}
+.com{
+    width: 202px !important;
+visibility: visible;
+/* margin: 10px 90px; */
+margin-left: 21px;
+margin-right: 6px;
+}
+.number_5,.number_25{
+  z-index: 100;
+  height: 178px;
+  max-width: 200px;
+  margin-left: 3px;
+}
+.product_lan_right{
+    max-width: 300px;
+}
+.your_project{
+
+  height: 162px !important;
+  z-index: 100;
+  max-width: 400px !important;
+  margin-left: 11px;
+}
+.p_slando_top {
+  font-size: 12px !important;
+}
+.slando.row {
+ 
+    display: block;
+margin-top: -468px;
+}
+img.img_slando {
+  width: 93%;
+}
+h1.h_slando_top {
+  width: 93%;
+  font-size: 31px !important;
+}
+h2.sp_slando_top.go {
+  width: 91%;
+  font-size: 12px;
+}
+.rff {
+  font-size: 14px !important;
+}
+.slando_centre {
+    width: 200%;
+}
+p.p_slando_bottom {
+  width: 90%;
+font-size: 9.5px;
+}
+
+h1.company_design {
+  width: 100%;
+text-align: center;
+font-size: 27px;
+}
+.company_start.row {
+  margin-top: 28px;
+  width: 90%;
+
+  }
+  .company_slando{
+    height: 2100px !important;
+  }
+  .company_preparation{  
+ 
+  }
+  .img_company {
+    width: 44%;
+    margin-left: 20px;
+  }
+  
+  .img_home{
+    width: 38%;
+    margin-top: -4px;
+    
+    
+  }
+  .img_home3{
+    width: 43%;
+    margin-top: -5px;
+
+  }
+  .img_home2{
+    width: 45%;
+    margin-top: -5px;
+  
+  }
+ 
+  .h3_preparation {
+    font-size: 17px;
+    width: 200px;
+    margin-left: 62px;
+  }
+  .h3_preparation.h3_design {
+    
+  }
+  
+  .h3_preparation.fffe.h3_design {
+    margin-left: 80px;
+  }
+  
+   .h3_enjoy{
+    margin-left: 107px !important;
+   }
+   .h3_preparation.h3_design.h3_enjoy {
+  margin-left: 72px !important;
+  }
+  .company_slando{
+    margin-top: -113px;
+  }
+  .img_company {
+    padding-top: 2px;
+margin-left: 63px;
+margin-right: 5px;
+  }
+  .img_company2{
+    width: 355px;
+    margin-top: 11px;
+  }
+  .img_company2.company_2 {
+    margin-left: -66px;
+  }
+  .sp_projects {
+   font-size: 14px !important;
+  }
+  .projects_content.row {
+    width: 159%;
+  }
+  
+
+  .projects_bottom {
+    width: 150%;
+margin-left: -164px;
+  } 
+  .lorem_1 {
+    width: 287px;
+    transform: all 500ms linear;
+    transition-delay: 0.1s;
+    float: left;
+    position: relative;
+    transform: translate3d(-100px,0, 0);
+    height: 330px;
+    
+  }
+  .lorem{
+    display: flex;
+    overflow: visible;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    transition: all 100ms linear;
+      transition-delay: 0s;
+    transition-delay: 0.1s;
+    position: relative;
+    overflow: hidden;
+    width: 105%;
+
+  }
+  .lorem_lorem {
+    padding-top: -20px;
+    margin-top: -13px;
+  
+  }
+  .TESTIMONIAL_contect_bottom_h1 {
+    margin-top: -30px !important;
+    z-index: 100;
+  }
+  .carousel-indicators {
+  
+      margin-bottom: -17px;
+  
+  }
+  .pp_contact {
+    font-size: 10px !important;
+  }
+  .h3_maha {
+  font-size: 14px !important;
+  width: 129%;
+  margin-left: 30px;
+}
+.p_senior {
+  font-size: 10px !important;
+  width: 138%;
+  margin-left: 30px;
+}
+.p_lore {
+  font-size: 12px !important;
+  padding-top: 63px;
+}
+  .lorem_1.cono {
+  
+  }
+  .lorem_1.lorem_div {
+    opacity: 0;
+  }
+  .contact_us_left {
+    width: 100%;
+    margin-left: -98px;
+  }
+  .contact_us_right.col-lg-5 {
+    width: 400px;
+max-width: 500px;
+z-index: 100;
+margin-left: 6px;
+padding-top: 20px;
+  }
+  .h1_pp_contact {
+    width: 409px;
+font-size: 35px !important;
+  }
+  img.contact_img {
+      width: 107%;
+  margin-left: 4px;
+  margin-top: -155px !important;
+  }
+  .contact_img1{
+    opacity: 0;
+  }
+  
+  .input_name {
+    height: 42px !important;
+  }
+  .input_tt {
+    height: 110px !important;
+  }
+  .bt_send {
+    height: 42px !important;
+    margin-top: -12px;
+    font-size: 13px !important;
+  }
+  .bt_contact {
+    width: 390px;
+    margin-top: -9px;
+  }
+  .p_blog_ {
+    font-size: 10px !important;
+  }
+  .h1_projects {
+   
+      width: 98% !important;
+      font-size: 29px !important;
+  }
+  .contact_input{
+    width: 100%;
+  }
+  .contact_img1 {
+    margin-left: -24px;
+    margin-bottom: 57px;
+  }
+  .h1_blog_ {
+    width: 460px !important;
+    z-index: 100;
+    font-size: 26px !important;
+  }
+  .projects_content.contact_23.row {
+    width: 42%;
+
+display:block;
+  }
+  .projects_content_imgg {
+    width: 76%;
+  }
+  .img_blog {
+    height: 370px !important;
+    width: 244% !important;
+  }
+  .footer_slando_up {
+    width: 299px;
+    height: 205px;
+    margin-left: -33px;
+  }
+  .p_blog,.pp_blog,.pp_blogg{
+    font-size: 13px !important;
+text-align: center;
+justify-content: center;
+display: flex;
+  }
+  .h2_blog,.h22_blog {
+    font-size: 20px !important;
+width: 450px !important;
+  }
+  .p_footer {
+    width: 300px;
+  }
+  .footer_slanfo_2{
+    width: 300px !important;
+    z-index: 100;
+
+  }
+  .contact {
+    height: 3200px !important;
+  }
+  .gggg{
+    max-width: 268px !important;
+  }
+  .feeedwwr {
+    width: 184px !important;
+margin-left: 162px;
+  }
+  .dcsw{
+    
+    width: 200px;
+   
+  }
+  .footer_slando_bottom {
+    margin-left: -35px;
+width: 212px;
+height: 62px;
+border-radius: -23px;
+  }
+  .feeedwwr.eeert6w {
+    margin-left: 219px;
+  }
+  .feeedwwr.fgghrr {
+    margin-left: 121px;
+  }
+  .ttt {
+    margin-left: -27px;
+  }
+  .fr_fb {
+    width: 18%;
+  }
+  .copyright.row {
+    display: block ruby;
+  }
+  .ft_copy{
+    width: 42%;
+    margin-left: -95px;
+  }
+  .ft_copy_right{
+    width: 60%;
+  }
+  #footer {
+    height: 1700px;
+  }
+  .copyright.row {
+    margin-top:1180px;
+margin-left: -65px;
+display: block;
+  }
+  .gf{
+    width: 56px !important;
+line-height: 50px;
+margin-left: 18px;
+  }
+  .fa-arrow-right::before {
+    content: "\f061";
+    line-height: 56px;
+    width: 94px;
+  }
+  .projects_content_gader {
+    margin-left: 50px;
+width: 200px;
+margin-right: 163px;
+margin-top: 20px;
+  }
+  .projects_content_text {
+    width: 301px;
+    height: 185px;
+  }
+  .p_Garden {
+    font-size: 14px !important;
+   margin-left: -12px !important;;
+  }
+  .h2_Garden {
+    font-size: 22px !important;
+    width: 100%;
+    margin-left: -13px;
+  }
+  .p_Garden_lacu {
+    font-size: 15px !important;
+    margin-left: 26px !important;
+  }
+  .projects_content_i {
+      left: 247px;
+  }
+  .pro_bach.row {
+    width: 100%;
+    margin-left: 47px;
+    height: 90px;
+  }
+  .vvv {
+      height: 85px;
+  }
+  .projects_bottom_left{
+  
+    width: 315% !important;
+  }
+  .he_projects_bottom {
+    font-size: 9px !important;
+    width: 94%;
+  }
+  .bt_projects_bottom {
+    font-size: 8px !important;
+height: 38px !important;
+  }
+  .projects {
+    height: 2020px;
+  }
+  .teti {
+    font-size: 14px !important;
+  }
+  .clien {
+    font-size: 33px !important;
+  }  
+  .lorem_p{
+    opacity: 0;
+  }
+  .ggggg {
+    height: 674px;
+  }
+  .TESTIMONIAL_contect_bottom {
+    opacity: 0;
+  }
+  .carousel-indicators {
+    opacity: 0;
+  }
+  .blog_bottom{
+    display: block !important;
+  }
+  .blog_content_text {
+    width: 282%;
+  }
+  .projects_content_gader_1.gader1.col-lg-3 {
+    
+    margin-left: 0px;
+  }
+  .ft_copy_right{
+    position: relative;
+margin-bottom: 20px;
+margin-top: -23px;
+text-align: center;
+justify-content: center;
+display: flex;
+  }
+  .double_met {
+    position: absolute;
+  }
+  .ft_copy{
+    margin-left: 109px;
+  }
+}
+/* 380 */
+@media (max-width:380px) {
+  #nav > li{
+    display: block;
+}
+.header_seach{
+    display: none;
+}
+.sdef{
+    display: block;
+    
+  
+}
+.header_number {
+    display: none;
+}
+.header_get {
+    display: none;
+}
+img.img_hee{
+    
+}
+#nav{
+    display: none;
+}
+.mobile-menu{
+    display: block;
+    z-index: 100;
+}
+/* .nav__overlay{
+    position: fixed !important;
+    z-index: 1 !important;
+    height: 2000px !important;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.3) !important;
+} */
+.nav_mobile{
+    display: block;
+    
+}
+#nav_mobile{
+    background-color: #fff !important;
+    z-index: 100;
+    display: block;
+}
+label.mobile-menu {
+  line-height: 8.2rem;
+  width: 20px;
+  margin-left: 72px;
+}
+h1.text-heading {
+  font-size: 1.5rem !important;
+color: aliceblue;
+font-weight: 500;
+}
+.bt_solu {
+  height: 36px !important;
+  font-size: 10px !important;
+  width: 100px !important;
+}
+.text-content {
+  width: 71%;
+margin-left: 347px;
+}
+.h1_context{
+  color: var(--thm-black);
+  font-size: 35px;
+  line-height: 1.2em;
+  font-weight: 700;
+  margin-bottom: 27px;
+
+}
+.design{
+    font-size: 14px;
+    width: 60%;
+}
+.con{
+  max-width: 269px !important;
+z-index: 1;
+height: 260px;
+}
+.nor{
+    
+    max-width: 272px;
+    
+    margin-right: 24px;
+}
+h3.ct_tree,.fox,.fs,.fd,.ct_ct {
+  font-size: 22px;
+}
+.p_pro {
+  font-size: 14px;
+margin-left: -10px !important;
+}
+
+.row.infomation {
+ width: 120%;
+display: block;
+text-align: center;
+align-content: center;
+margin-left: -4px; 
+}
+
+.product_lan{
+  display: block;
+  position: relative !important;
+  margin-top: 139px;
+  height: 1300px;
+  width: 500px !important;
+  margin-top: 17px;
+  
+}
+.product_lan_right{
+  position: absolute !important;
+  
+    margin-left: 61px;
+    margin-top: -168px;
+  
+}
+.img_lan {
+  width: 142%;
+  margin-left: -62px;
+}
+.product_lanspace {
+  width: 100%;
+}
+.product_lan_left {
+  margin-top: 100px;
+  margin-left: 0px;
+}
+.h2_start_project {
+  font-size: 18px !important;
+}
+.app_project {
+  font-size: 10px !important;
+}
+.ecellent{
+  margin-top: -10px;
+  font-size: 10px !important;
+}
+button.bt_appoin {
+  width: 87%;
+  height: 45px;
+  border-radius: 27px;
+  font-size: 12px;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: var(--thm-base);
+  border: 1px solid #fff;
+
+}
+
+.h1_pro {
+  font-size: 29px !important;
+padding-top: 25px;
+margin-top: -100px;
+}
+.p_product{
+  font-size: 13px !important;
+  margin-left: -44px;
+} 
+.product_number{
+  display: block;
+}
+.about_slando{
+margin-top: 185px;
+}
+
+.comple {
+  width: 237px !important;
+  margin-left: -9px;
+}
+.com{
+  width: 251px !important;
+  visibility: visible;
+  margin: 10px 90px;
+  margin-left: 21px;
+  margin-right: 6px;
+}
+.number_5,.number_25{
+  z-index: 100;
+  height: 178px;
+  max-width: 200px;
+  margin-left: 3px;
+}
+.product_lan_right{
+    max-width: 300px;
+}
+.your_project{
+  height: 162px !important;
+  z-index: 100;
+  max-width: 340px !important;
+  margin-left: 1px;
+  margin-top: 219px;
+}
+.p_slando_top {
+  font-size: 10px !important;
+}
+.about_slando_right{
+    margin-top: -6px;
+}
+.slando.row {
+ 
+    display: block;
+margin-top: -468px;
+}
+img.img_slando {
+  width: 93%;
+}
+h1.h_slando_top {
+  width: 117%;
+  font-size: 26px !important;
+}
+h2.sp_slando_top.go {
+  width: 91%;
+  font-size: 12px;
+}
+.rff {
+  font-size: 12px !important;
+}
+.slando_centre {
+    width: 200%;
+}
+p.p_slando_bottom {
+  width: 90%;
+font-size: 9.5px;
+}
+
+h1.company_design {
+  width: 100%;
+text-align: center;
+font-size: 27px;
+}
+.company_start.row {
+  margin-top: 28px;
+  width: 90%;
+
+  }
+  .company_slando{
+    height: 1760px !important;
+  }
+  .company_preparation{  
+ 
+  }
+  .img_company {
+    width: 44%;
+    margin-left: 20px;
+  }
+  
+  .img_home{
+    width: 38%;
+    margin-top: -4px;
+    
+    
+  }
+  .img_home3{
+    width: 43%;
+    margin-top: -5px;
+
+  }
+  .img_home2{
+    width: 45%;
+    margin-top: -5px;
+  
+  }
+ 
+  .h3_preparation {
+    font-size: 15px;
+    width: 200px;
+    margin-left: 24px;
+  }
+  .h3_preparation.fffe.h3_design {
+    margin-left: 35px;
+  }
+  .img_company2.company_5 {
+    margin-left: -72px;
+  }
+  
+   .h3_enjoy{
+    margin-left: 107px !important;
+   }
+   .h3_preparation.h3_design.h3_enjoy {
+    margin-left: 30px !important;
+  }
+  .company_slando{
+    margin-top: -113px;
+  }
+  .img_company2.company_4 {
+    margin-left: -76px;
+  }
+  .img_company {
+    padding-top: 2px;
+margin-right: 5px;
+margin-left: 30px;
+  }
+  .img_company2{
+    width: 291px;
+    margin-top: 11px;
+  }
+  .img_company2.company_3 {
+    margin-left: -76px;
+  }
+  .img_company2.company_2 {
+    margin-left: -77px;
+  }
+  .sp_projects {
+   font-size: 14px !important;
+  }
+  .projects_content.row {
+    width: 159%;
+  }
+  
+
+  .projects_bottom {
+    width: 150%;
+margin-left: -164px;
+  } 
+  .lorem_1 {
+    width: 287px;
+    transform: all 500ms linear;
+    transition-delay: 0.1s;
+    float: left;
+    position: relative;
+    transform: translate3d(-100px,0, 0);
+    height: 330px;
+    
+  }
+  .lorem{
+    position: relative;
+padding-top: 0px;
+padding-bottom: 0px;
+transition: all 100ms linear;
+  transition-delay: 0s;
+transition-delay: 0s;
+transition-delay: 0.1s;
+position: relative;
+overflow: hidden;
+width: 147%;
+margin-left: 114px !important;
+
+  }
+  .lorem_lorem {
+    padding-top: -20px;
+    margin-top: -13px;
+  
+  }
+  .TESTIMONIAL_contect_bottom_h1 {
+    margin-top: -30px !important;
+    z-index: 100;
+  }
+  .carousel-indicators {
+  
+      margin-bottom: -17px;
+  
+  }
+  .pp_contact {
+    font-size: 10px !important;
+  }
+  .h3_maha {
+  font-size: 14px !important;
+  width: 129%;
+  margin-left: 30px;
+}
+.p_senior {
+  font-size: 10px !important;
+  width: 138%;
+  margin-left: 30px;
+}
+.p_lore {
+  font-size: 12px !important;
+  padding-top: 63px;
+}
+  .lorem_1.cono {
+  
+  }
+  .lorem_1.lorem_div {
+    opacity: 0;
+  }
+  .contact_us_left {
+    width: 100%;
+    margin-left: -98px;
+  }
+  .contact_us_right.col-lg-5 {
+    width: 400px;
+max-width: 500px;
+z-index: 100;
+margin-left: 6px;
+padding-top: 20px;
+  }
+  .h1_pp_contact {
+    width: 380px;
+    font-size: 31px !important;
+  }
+  img.contact_img {
+    width: 109%;
+    margin-left: 19px;
+    margin-top: -155px !important;
+  }
+  .contact_img1{
+    opacity: 0;
+  }
+  
+  .input_name {
+    height: 42px !important;
+  }
+  .input_tt {
+    height: 110px !important;
+  }
+  .bt_send {
+    height: 42px !important;
+    margin-top: -12px;
+    font-size: 13px !important;
+  }
+  .bt_contact {
+    width: 390px;
+    margin-top: -9px;
+  }
+  .p_blog_ {
+    font-size: 10px !important;
+  }
+  .h1_projects {
+   
+      width: 98% !important;
+      font-size: 29px !important;
+  }
+  .contact_input{
+    width: 100%;
+  }
+  .contact_img1 {
+    margin-left: -24px;
+    margin-bottom: 57px;
+  }
+  .h1_blog_ {
+    width: 363px !important;
+    z-index: 100;
+    font-size: 23px !important;
+  }
+  .projects_content.contact_23.row {
+    width: 42%;
+
+display:block;
+  }
+  .projects_content_imgg {
+    width: 117%;
+margin-left: -58px;
+  }
+  .img_blog {
+    height: 370px !important;
+    width: 244% !important;
+  }
+  .footer_slando_up {
+    width: 299px;
+    height: 205px;
+    margin-left: -33px;
+  }
+  .p_blog,.pp_blog,.pp_blogg{
+    font-size: 13px !important;
+text-align: center;
+justify-content: center;
+display: flex;
+  }
+  .h2_blog,.h22_blog {
+    font-size: 14px !important;
+width: 310px !important;
+margin-top: -21px;
+  }
+  .blogg {
+    margin-top: -26px;
+  }
+  .p_footer {
+    width: 300px;
+  }
+  .footer_slanfo_2{
+    width: 300px !important;
+    z-index: 100;
+
+  }
+  .contact {
+    height: 2700px !important;
+  }
+  .gggg{
+    max-width: 268px !important;
+  }
+  .feeedwwr {
+    width: 184px !important;
+margin-left: 162px;
+  }
+  .dcsw{
+    
+    width: 200px;
+   
+  }
+  .footer_slando_bottom {
+    margin-left: -35px;
+width: 212px;
+height: 62px;
+border-radius: -23px;
+  }
+  .feeedwwr.eeert6w {
+    margin-left: 219px;
+  }
+  .feeedwwr.fgghrr {
+    margin-left: 121px;
+  }
+  .ttt {
+    margin-left: -27px;
+  }
+  .fr_fb {
+    width: 18%;
+  }
+  .copyright.row {
+    display: block ruby;
+  }
+  .ft_copy{
+    width: 42%;
+    margin-left: -95px;
+  }
+  .ft_copy_right{
+    width: 60%;
+  }
+  #footer {
+    height: 1700px;
+  }
+  .copyright.row {
+    margin-top:1180px;
+margin-left: -65px;
+display: block;
+  }
+  .gf{
+    width: 56px !important;
+line-height: 50px;
+margin-left: 18px;
+  }
+  .fa-arrow-right::before {
+    content: "\f061";
+    line-height: 56px;
+    width: 94px;
+  }
+  .projects_content_gader {
+    margin-left: 50px;
+width: 200px;
+margin-right: 163px;
+margin-top: 20px;
+  }
+  .projects_content_text {
+    width: 308px;
+    height: 197px;
+    margin-left: -30px;
+  }
+  .p_Garden {
+    font-size: 14px !important;
+   margin-left: -12px !important;;
+  }
+  .h2_Garden {
+    font-size: 22px !important;
+    width: 100%;
+    margin-left: -13px;
+  }
+  .p_Garden_lacu {
+    font-size: 15px !important;
+    margin-left: 26px !important;
+  }
+  .projects_content_i {
+      left: 247px;
+  }
+  .pro_bach.row {
+    width: 104%;
+    margin-left: 58px;
+    height: 90px;
+    margin-top: 12px;
+  }
+  .vvv {
+      height: 85px;
+  }
+  .projects_bottom_left{
+  
+    width: 315% !important;
+  }
+  .he_projects_bottom {
+    font-size: 12px !important;
+    width: 94%;
+    line-height: 1.2 !important;
+  }
+  .bt_projects_bottom {
+    font-size: 8px !important;
+height: 38px !important;
+  }
+  .projects {
+    height: 2020px;
+  }
+  .teti {
+    font-size: 14px !important;
+  }
+  .clien {
+    font-size: 33px !important;
+  }  
+  .lorem_p{
+    opacity: 0;
+  }
+  .ggggg {
+    height: 674px;
+  }
+  .TESTIMONIAL_contect_bottom {
+    opacity: 0;
+  }
+  .carousel-indicators {
+    opacity: 0;
+  }
+  .blog_bottom{
+    display: block !important;
+  }
+  .blog_content_text {
+    width: 282%;
+  }
+  .projects_content_gader_1.gader1.col-lg-3 {
+    
+    margin-left: 0px;
+  }
+  .ft_copy_right{
+    position: relative;
+margin-bottom: 20px;
+margin-top: -23px;
+text-align: center;
+justify-content: center;
+display: flex;
+  }
+  .double_met {
+    position: absolute;
+  }
+  .ft_copy{
+    margin-left: 109px;
+  }
+}

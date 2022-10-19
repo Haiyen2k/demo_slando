@@ -1,0 +1,197 @@
+.footer_slando_up {
+    margin-top: 95px;
+    margin-left: 30px;
+    margin-bottom: 19px;
+}
+#footer{
+    height: 578px;
+    background-image: url(/images/images/01_Homyhe_02.png);
+}
+.footer_slando.col-lg-12.col-sm-12.col-md-12 {
+    height: 438px;
+}
+p.p_footer {
+    margin-top: 41px;
+    margin-left: 12px;
+}
+p.p_footer {
+    margin-top: 51px;
+    margin-left: -3px;
+    width: 67%;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+}
+.footer_slando_bottom{
+    margin-top: 14px;
+    width: 64%;
+    background-color: #fff;
+    margin-left: 32px;
+    display: flex;
+    border-radius: 32px;
+    position: relative;
+    height: 62px;
+}
+.html{
+    font-family: 'Open Sans', sans-serif;;
+
+}
+.img_ft{
+    cursor: pointer;
+}
+.gf:hover{
+    background-color: var(--thm-base);
+}
+i.df.fa-regular.fa-envelope {
+    margin-top: 26px;
+    margin-left: 20px;
+    color: var(--bs-secondary);
+}
+input.input_footer {
+    margin-left: 18px;
+    width: 44%;
+    background: #ffffff;
+    border: none;
+    color: #888f85;;
+    
+}
+.gf {
+    width: 23% !important;
+    background-color: var(--thm-primary);
+    border-radius: 48%;
+    position: absolute;
+    right: 0px;
+}
+.fa-arrow-right::before {
+    line-height: 62px;
+    display: flex;
+    justify-content: center;
+}
+.ttt {
+    display: flex;
+    margin-top: 11px;
+    margin-left: 33px;
+    cursor: pointer;
+}
+input.ip_footer {
+    width: 4%;
+    background-color: var(--bs-gray-dark);
+    color: var(--bs-gray-dark);
+}
+p.p_privacy {
+    margin-top: 10px;
+    margin-left: 7px;
+    font-size: 14px;
+}
+.footer_slanfo_2.col-lg-2 {
+    margin-top: 101px;
+    margin-left: -43px;
+}
+.li_ft:hover{
+    color: var(--thm-base);
+
+}
+.lie_ft:hover{
+    color: var(--thm-base);
+
+}
+.li_ftt:hover{
+    color: var(--thm-base);
+
+}
+h2.h2_ft {
+    font-size: 29px;
+}
+ul.ul_ft {
+    list-style: none;
+    margin-top: 30px;
+    font-size: 18px;
+    padding-left: 8px;
+}
+li.li_ft {
+    cursor: pointer;
+    margin: 11px 0;
+}
+.metmoi {
+    margin-left: -25px;
+}
+.ft_met {
+    margin-left: -63px;
+}
+li.lie_ft {
+    font-size: 17px;
+    margin-top: 5px;
+    letter-spacing: 0.1px;
+}
+ul.ul_ft.aa {
+    margin-top: 34px;
+}
+li.li_ftt {
+    margin-top: 11px;
+    margin-left: -5px;
+    font-size: 15px;
+}
+.ft_insta {
+    margin-top: 33px;
+    margin-left: -73px;
+    display: flex;
+}
+.fr_fb {
+    border-radius: 28px;
+    width: 13.5%;
+    height: 47px;
+    background-color: var(--bs-white);
+    margin-left: -64px;
+    margin-left: 14px;
+}
+.fr_fb:hover{
+    background-color: var(--thm-base);
+    color: var(--bs-light);
+}
+.fcc{
+    cursor: pointer;
+    color: #000;
+  }
+  .fcc:hover{
+    color: var(--bs-light);
+  }
+.fcc::before {
+    content: "\f061";
+    padding-left: 17px;
+    padding-top: -15px;
+    /* bottom: -48px; */
+    line-height: 45px;
+}
+.copyright.row {
+    margin-top: 87px;
+}
+p.double_met {
+    font-size: 14px;
+    margin-top: 2px;
+    margin-left: 30px;
+}
+
+ul.trible_met {
+    list-style: none;
+    display: flex;
+    margin-left: 46px;
+    font-size: 14px;
+}
+li.abs {
+    margin: 0 10px;
+    cursor: pointer;
+}
+.aed::after{
+    content: "/";
+    margin-left: 9px;
+}
+li.abs.aed.gg {
+    margin-left: 2px;
+}
+li.abs.gs {
+    margin-left: 1px;
+}
+li.abs:hover{
+    color: var(--thm-base);
+}

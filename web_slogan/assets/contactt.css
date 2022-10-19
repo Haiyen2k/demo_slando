@@ -1,0 +1,223 @@
+.contact_us {
+    margin-top: 134px;
+}
+.contact {
+    background-image: url(/images/images/01_Hoggme_02.png);
+    height: 1765px;
+    padding-top: 18px;
+    
+}
+
+.contact_us_left{
+    margin-left: 27px;
+    position: relative;
+}
+.contact_us_right{
+    margin-left: -10px;
+    /* margin-top: 1px; */
+}
+img.contact_img1 {
+    position: absolute;
+}
+img.contact_img {
+   
+}
+img.contact_img1 {
+    position: absolute;
+    /* top: 122px; */
+    bottom: 208px;
+    width: 44%;
+    left: -92px;
+}
+p.pp_contact {
+    font-weight: 600;
+    position: relative;
+    display: inline-block;
+    color: var( --bs-secondary);
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    font-family: var(--thm-font);
+    margin-bottom: 19px;
+}
+h1.h1_pp_contact {
+   
+    max-width: 600px;
+    font-family: var(--thm-font-2);
+
+    color: var(--thm-black);
+    font-size: 50px;
+    line-height: 1.2em;
+    font-weight: 700;
+    margin-bottom: 27px;
+}
+.contact_input {
+    margin-top: 55px;
+}
+input.input_name {
+    width: 30%;
+    height: 60px;
+}
+input.input_name {
+    width: 44.5%;
+    height: 66px;
+    font-size: 13px;
+    padding-left: 15px;
+    /* text-transform: uppercase; */
+}
+.contact_input_t {
+    padding-top: 13px;
+}
+.ip_email {
+    margin-left: 20px;
+}
+.contact_input_tt {
+    width: 92.2%;
+    margin-top: 36px;
+    margin-left: 3px;
+    display: block;
+}
+
+input.input_tt {
+    width: 101.2%;
+    height: 159px;
+    /* margin-top: 2px; */
+    padding-top: -61px;
+    padding-left: 14px;
+    padding-bottom: 87px;
+    font-size: 15px;
+}
+button.bt_send{
+    margin-top: 40px;
+    margin-left: -6px;
+    width: 19%;
+    height: 60px;
+    border-radius: 29px;
+    background-color: var(--thm-base);
+    color: var(--bs-white);
+    font-size: 19px;
+    text-transform: uppercase;
+    font-family: var(--thm-font-2);
+}
+button.bt_send:hover{
+    background-color: var(--thm-primary);
+
+}
+.blog_header {
+    margin-top: 93px;
+    text-align: center;
+}
+p.p_blog_ {
+    margin-left: 3px;
+    /* font-family: var(--thm-font); */
+    position: relative;
+    display: inline-block;
+    color: var(--thm-gray);
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: var(--thm-font);
+    margin-bottom: 22px;
+    padding-top: 15px;
+}
+h1.h1_blog_ {
+    width: 47%;
+    font-size: 50px;
+    margin: 0 auto;
+    /* margin-left: 392px; */
+    /* margin-top: 12px; */
+    padding-top: 2px;
+    font-weight: 600;
+    font-family: var(--thm-font-2);
+}
+.blog_bottom {
+    margin-top: 52px;
+}
+.blog_content_imgg {
+    width: 100%;
+    position: relative;
+    margin-left: 8px;
+    /* height: 119px; */
+}
+img.img_blog {
+    width: 83%;
+    margin-left: 23px;
+    height: 376px;
+    border-radius: 8px;
+}
+p.p_blog {
+    margin-top: 39px;
+    margin-left: 34px;
+    /* padding-top: 32px; */
+    font-size: 16px;
+    text-align: center;
+    background-color: var(--thm-base);
+    width: 18.5%;
+    height: 26px;
+    color: var(--bs-white);
+    border-radius: 5px;
+    font-family: var(--thm-font);
+}
+h2.h2_blog {
+    
+    font-size: 24px;
+    margin-left: 32px;
+    padding-top: 11px;
+    width: 68%;
+    line-height: 35px;
+    font-weight: 600;
+    font-family: var(--thm-font-2);
+}
+.h22_blog {
+    font-size: 25px;
+    margin-left: 31px;
+    font-weight: 600;
+    line-height: 36px;
+    padding-top: 8px;
+    width: 84%;
+    font-family: var(--thm-font-2);
+}
+.pp_blog {
+    margin-top: 39px;
+    margin-left: 36px;
+    /* padding-top: 32px; */
+    font-size: 16px;
+    text-align: center;
+    width: 22.5%;
+    border-radius: 5px;
+    padding-top: -35px;
+    background-color: var(--thm-base);
+    height: 26px;
+    color: var(--bs-white);
+    border-radius: 5px;
+    font-family: var(--thm-font);
+}
+.pp_blogg{
+    margin-top: 37px;
+    margin-left: 31px;
+    font-size: 16px;
+    text-align: center;
+    width: 21.5%;
+    border-radius: 5px;
+    padding-top: -35px;
+    background-color: var(--thm-base);
+    height: 29px;
+    color: var(--bs-white);
+    border-radius: 5px;
+    font-family: var(--thm-font);
+    padding-top: 2px;
+}
+
+h2.h2_blog.h2_how {
+    width: 78%;
+    font-size: 23px;
+    padding-top: 8px;
+    letter-spacing: 0.16px;
+}
+.h2_blog:hover{
+    color: var(--thm-base);
+}
+.h22_blog:hover{
+    color: var(--thm-base);
+}

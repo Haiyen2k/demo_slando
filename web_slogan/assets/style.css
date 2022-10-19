@@ -1,0 +1,444 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    --bs-gray-dark: #343a40;
+    --bs-primary: #0d6efd;
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    --bs-light: #f8f9fa;
+    --bs-dark: #212529;
+    --bs-font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+:root {
+    --thm-font: "Roboto", sans-serif;
+    --thm-font-2: "Domine", serif;
+    --thm-base: #6cab2d;
+    --thm-base-rgb: 108, 171, 45;
+    --thm-black: #0b0b0c;
+    --thm-black-rgb: 11, 11, 12;
+    --thm-gray: #727274;
+    --thm-gray-rgb: 114, 114, 116;
+    --thm-primary: #f25e25;
+    --thm-primary-rgb: 242, 94, 37;
+}
+
+#main{
+    
+}
+.num_b:hover {
+    color: #000;
+    opacity: 0.5;
+    text-decoration: none;
+}
+img.img_hee:hover {
+    cursor: pointer;
+}
+img.img_hee {
+    margin-top: 9px;
+    margin-left: 22px;
+    
+}
+#nav{
+    margin: 45px 25px;
+    display: flex;
+    font-family: "Domine", serif;
+    font-weight: bold;
+    
+}
+
+#header{
+    height: 142px;
+    background-color: aliceblue;
+  }
+i.fa-solid.fa-magnifying-glass{
+    color: #fff;
+}
+.header_img{
+    line-height: 122px;
+  }
+ .header_number {
+    line-height: 123px;
+    margin-left: 20px;
+    letter-spacing: 0.1px;
+    margin-top: 11px;
+    z-index: 100;
+}
+#header.sdef{
+   display: none;
+}
+div#header_logo\ {
+    padding: 24px 2px;
+}
+.header_logoo{
+    display: flex;
+}
+#nav {
+    line-height: 54px;
+    padding-left: 1px;
+    letter-spacing: 0.08px;
+}
+#nav, .subnav{
+    list-style-type: none;
+}
+#nav > li{
+    display: inline-block;
+}
+#nav li{
+    
+    position: relative;
+} 
+#nav > li > a{
+    color: #fff;
+}
+
+#nav li a{
+    color: black;
+    text-decoration: none;
+    line-height: 59px;
+    padding: 0 16px;
+    display: block;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.header_nav {
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.header_right{
+    margin-left: 94px;
+}
+#nav > li:hover > a{
+    color: var(--bs-green);
+    
+}
+#nav li:hover a{
+    color: var(--bs-green);
+   
+}
+#nav .subnav{
+   display: none;
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) ;
+
+}
+#nav li:hover .subnav{
+    display: block;
+}
+#nav .subnav a{
+    color: black;
+    padding: 0 26px;
+    line-height: 38px;
+}
+#nav .subnav li:hover{
+    color: beige;
+    background-color: #fff;
+}
+.header_right {
+    display: flex;
+}
+
+
+    a.num_b {
+        font-size: 24px;
+        margin-right: 10px;
+        color: #000;
+    }
+
+#main{
+   
+}
+#header .sdef
+ {
+    width: 9.5%;
+    height: 51px;
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    margin-left: 13px;
+    margin-top: 11px;
+    cursor: pointer;
+    color: #0b0b0c;
+}
+ .header_seach {
+    width: 10.6%;
+    height: 57px;
+    background-color: var(--thm-base);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 19px;
+    margin-top: 46px;
+    cursor: pointer;
+    color: #f8f9fa;
+}
+#header .sdef:hover {
+    color: #0dcaf0;
+    z-index: 100;
+    
+}
+#header .header_seach:hover{
+    background-color: var(--bs-orange);
+}
+i.fa-solid.fa-phone-flip {
+    font-size: 35px;
+    /* color: #fff; */
+    border: 0 solid;
+}
+ .header_right {
+    margin-left: 16px;
+}
+/* button.get_quote {
+    position: relative;
+    width: 192px;
+    height: 59px;
+    font-size: 17px;
+    background-color: #fff;
+    border: 1px solid red;
+    margin-left: 32px;
+    color: red;
+    margin-top: 46px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: "Domine", serif;
+} */
+/* .get_quote:hover{
+    
+    background-color: var(--thm-base);
+    color: #fff;
+} */
+#slider{
+    min-height: 450px;
+
+}
+.fas, .fa-solid {
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+  }
+  #header_logo {
+    display: flex;
+    height: 100px;
+  }
+.mobile-menu{
+    margin-right: 5px;
+    display: none;
+}
+.nav__overlay{
+    position: fixed !important;
+    top: 0;
+    right: 0;
+    border: 0;
+    left: 0;
+    width: 100%;
+    display: none;
+    z-index: 1000;
+    height: 2000px;
+    background-color: rgba(0, 0, 0, 0.3);
+    animation: fadeIn linear 0.3s;
+    
+}
+.nav__mobile{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    width: 320px;
+    max-width: 100%;
+    z-index: 100;
+    background-color: #fff;
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: transform linear 0.2s, opacity linear 0.2s;
+    
+}
+
+.nav_mobile-list{
+    margin-top: 24px;
+
+}
+.nav__mobile-link{
+    text-decoration: none;
+    color: #333;
+    display: block;
+    padding: 8px 10px;
+    font-size: 1.4rem;
+
+}
+.nav__mobile-close{
+    font-size: 1.4rem;
+    color: #666;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 28px;
+    height: 28px;
+
+
+}
+input#nav-mobile-input {
+    
+    z-index: 100;
+    
+}
+   
+.nav__input:checked ~ .nav__overlay{
+    color: lawngreen !important;
+    display: block !important;
+    z-index: 1;
+
+}
+.nav__input:checked ~ .nav__mobile{
+    transform: translateX(0%);
+    opacity: 1;
+
+}
+input#nav-mobile-input {
+    z-index: 100;
+  }
+
+#content{
+
+}
+#footer{
+
+}
+
+.carousel-item {
+    animation-name: fadeIn;
+    animation-duration: 4s;
+    width: 300px;
+    transform: translate3d(-100px, 0px, 0px);
+        transition: all 0.5s ease 0s;
+        touch-action: manipulation;
+        transition: all 100ms linear;
+        transition-delay: 0.1s;
+        animation-duration: 4s;
+        position: relative;
+  }
+  
+  .header_right{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .header_get {
+    padding-right: 16px;
+}
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+}
+@keyframes growth{
+    from{
+        transform: scale(var(--growth-from));
+    }
+    to{
+        transform: scale(var(--growth-from));
+    }
+}
+button.get_quote {
+    position: relative;
+    width: 192px;
+    height: 59px;
+    font-size: 17px;
+    background-color: #fff;
+    border: 1px solid red;
+    margin-left: 32px;
+    color: red;
+    margin-top: 46px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: "Domine", serif;
+}
+button.get_quote::after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: var(--thm-base);
+    content: "";
+    transform: scaleY(0) rotateX(0deg);
+    transition: all 0.4s linear;
+}
+button.get_quote:hover::after{
+    transform: scaleX(1) rotateX(0deg);
+    --growth-from: all 0.4s linear;
+    --growth-from: all 0.4s linear;
+    transition: all 0.4s linear;
+    z-index: -1;
+    color: var(--bs-light);
+    
+}
+.header_get::after {
+    background: var(--thm-base);
+    border-radius: 3px;
+}
+.get_quote:hover{
+    
+    background-color: var(--thm-base);
+    color: #fff;
+}
+
+/* ------ */
+.bt_out::after {
+    background: var(--thm-base);
+    border-radius: 52px;
+}
+button.bt_solu::after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 52px;
+    background-color: var(--thm-primary);
+    content: "";
+    transform: scaleY(0) rotateX(0deg);
+    transition: all 0.4s linear;
+}
+button.bt_solu:hover::after{
+    transform: scaleX(1) rotateX(0deg);
+    --growth-from: all 0.4s linear;
+    --growth-from: all 0.4s linear;
+    transition: all 0.4s linear;
+    z-index: -1;
+    color: var(--bs-light);
+    
+}
+.bt_solu:hover{
+    
+    background-color: var(--thm-primary);
+    color: #fff;
+}
+.bt_solu{
+   position: relative;
+}
